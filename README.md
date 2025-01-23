@@ -10,8 +10,9 @@ Remove tasks from the list when they are no longer needed.
 Mark tasks as completed by toggling their state.
 ### Responsive Design: 
 The app is fully responsive, providing an optimal experience on desktop, tablet, and mobile devices.
-### Persistent State: Tasks are managed in local state, ensuring the app remains simple and efficient without a back-end integration.
-Demo
+### Persistent State: 
+Tasks are managed in local state, ensuring the app remains simple and efficient without a back-end integration.
+
 ## 🎥 Watch the Demo:
 https://github.com/user-attachments/assets/b5a95de2-3b4a-46c0-babe-a2436017f503
 
