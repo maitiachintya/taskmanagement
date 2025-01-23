@@ -1,0 +1,124 @@
+/* App.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  width: 50%;
+  margin: 50px auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  width: 70%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px 5px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.filters button {
+  background-color: #28a745;
+  margin: 5px;
+}
+
+.filters button:hover {
+  background-color: #218838;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #f9f9f9;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+span {
+  flex-grow: 1;
+  font-size: 18px;
+  color: #333;
+}
+
+span[style*="line-through"] {
+  text-decoration: line-through;
+  color: #6c757d;
+}
+
+button {
+  margin-left: 5px;
+}
+
+input[type="text"] {
+  width: 50%;
+  padding: 8px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+input[type="text"]:focus {
+  outline: none;
+  border-color: #007bff;
+}
+
+input[type="text"]::placeholder {
+  color: #888;
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.filters {
+  margin: 20px 0;
+}
+
+.filters button {
+  background-color: #28a745;
+}
+
+button {
+  background-color: #007bff;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
