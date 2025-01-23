@@ -14,6 +14,7 @@ The app is fully responsive, providing an optimal experience on desktop, tablet,
 Demo
 ## 🎥 Watch the Demo:
 https://github.com/user-attachments/assets/b5a95de2-3b4a-46c0-babe-a2436017f503
+
 Check out the task management features in action in the video above!
 
 ## Tech Stack
